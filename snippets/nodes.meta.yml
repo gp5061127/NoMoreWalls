@@ -1795,7 +1795,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: hibyevpn--IR-13 @HiByeVPNN
+- name: '@v2ray_configs_pools #1'
   password: dongtaiwang.com
   port: 4710
   server: 108.181.5.130
@@ -2144,33 +2144,12 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: hibyevpn--IR-9 @HiByeVPNN
-  password: dongtaiwang.com
-  port: 4710
-  server: 108.181.5.130
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: '@V2rayNG3 #8'
   password: dongtaiwang.com
   port: 50717
   server: 46.17.41.189
   skip-cert-verify: true
   sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: hibyevpn--IR-10 @HiByeVPNN
-  password: dongtaiwang.com
-  port: 30033
-  server: 46.17.41.217
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: hibyevpn--IR-14 @HiByeVPNN
-  password: dongtaiwang.com
-  port: 12904
-  server: 46.17.41.5
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '@Filter_breaker | Germany'
