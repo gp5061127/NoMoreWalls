@@ -97,7 +97,7 @@ proxies:
   sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
-- name: 'WI-FI--@IRAN_V2RAY1 #1'
+- name: '  : @V2Gatee'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -137,13 +137,13 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '      Config_Rayegan@ #2'
+- name: '  : @V2Gatee #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
   port: 36600
   server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
@@ -183,7 +183,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: 'WI-FI--@IRAN_V2RAY1 #2'
+- name: '  : @V2Gatee #2'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
