@@ -70,7 +70,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@WedBaZTel #1'
+- name: '@WedBaZTel #2'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -174,7 +174,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@WedBaZTel'
+- name: '@WedBaZTel #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -194,7 +194,7 @@ proxies:
   sni: YAPC-1.afshin.ir@freenettir
   tls: false
   type: hysteria2
-- name: '@V2rayBaaz #1'
+- name: '@WedBaZTel #3'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
