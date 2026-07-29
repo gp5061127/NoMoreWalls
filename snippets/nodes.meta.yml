@@ -17,7 +17,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 59@oneclickvpnkeys
+- name: 🐰59@oneclickvpnkeys
   password: 042a1881-44e4-4781-bd40-bf75164faf4f
   port: 443
   server: usp.noesissite.ru
@@ -44,17 +44,7 @@ proxies:
   sni: apic.dnso.ccwu.cc
   tls: false
   type: hysteria2
-- name: '125599 | Telegram = t.me/SOSke... #1'
-  obfs: salamander
-  obfs-password: bjmye80g9o99qohl
-  password: 1ecqm05bcdfcckq5
-  port: 59265
-  server: soskeynets.dnso.ccwu.cc
-  skip-cert-verify: true
-  sni: apic.dnso.ccwu.cc
-  tls: false
-  type: hysteria2
-- name: '@vmesskhodam'
+- name: '@erfanandroid'
   obfs: salamander
   obfs-password: iknjsvsjagi449mm
   password: 4z2oldt85p494bgb
@@ -74,7 +64,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@Alpha_v2rayIP'
+- name: '     TelegramID Express_freevp...'
   obfs: salamander
   obfs-password: fd3olglr2bmimgje
   password: 4z2oldt85p494bgb
@@ -91,13 +81,6 @@ proxies:
   sni: ger.leontunel.ru
   tls: false
   type: hysteria2
-- name: 125595 | Telegram = t.me/SOSke...
-  password: 76713d07-5a6b-49c2-abd8-bc450a2fa7fc
-  port: 443
-  server: soskeynets.spectrumproxy.shop
-  sni: usa1.spectrumproxy.shop
-  tls: false
-  type: hysteria2
 - name: 52@oneclickvpnkeys
   password: 76713d07-5a6b-49c2-abd8-bc450a2fa7fc
   port: 443
@@ -105,7 +88,7 @@ proxies:
   sni: usa1.spectrumproxy.shop
   tls: false
   type: hysteria2
-- name: '@erfanandroid #1'
+- name: '@prrofile_purple '
   obfs: salamander
   obfs-password: l960g2kn19nphlra
   password: 84eyebdtl3tcbssn
@@ -217,7 +200,7 @@ proxies:
   sni: 2.59.163.171.nip.io
   tls: false
   type: hysteria2
-- name: '@Napsternetvirani #1'
+- name: '@Napsternetvirani'
   password: e04a51d1-0450-4919-b924-bd08501934bf
   port: 443
   server: 80.66.78.105
@@ -242,7 +225,7 @@ proxies:
   sni: azer-tea-grape.bumbleshrimp.com
   tls: false
   type: hysteria2
-- name: 'mtmvpn : telegram 5'
+- name: '@bored_vpn'
   obfs: salamander
   obfs-password: lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF
   password: hy2_czaawdhc
@@ -325,13 +308,6 @@ proxies:
   port: 443
   server: 185.225.19.39
   sni: ro.h2corp.org
-  tls: false
-  type: hysteria2
-- name: 41@oneclickvpnkeys
-  password: velluto_8325804083
-  port: 443
-  server: 31.76.30.79
-  sni: gretacoin.shop
   tls: false
   type: hysteria2
 - name: MTMVPN Channel 15
