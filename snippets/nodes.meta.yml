@@ -40,6 +40,14 @@ proxies:
   sni: hg1.yuanbaojc.site
   tls: false
   type: hysteria2
+- name: 3@wxgqlfx#
+  password: 571e40e5-d597-4618-9204-535c94dca771
+  port: 36253
+  server: uswx3.wxgqlfx.vip
+  skip-cert-verify: true
+  sni: 144.225.187.184
+  tls: false
+  type: hysteria2
 - name: '未命名 #2'
   password: 5bc8aea0-04a6-4fcf-9a04-1a51518396a8
   port: 35000
@@ -112,14 +120,7 @@ proxies:
   sni: wopa10.api3-max.ru
   tls: false
   type: hysteria2
-- name: '未命名 #14'
-  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
-  port: 443
-  server: wopa3.api3-max.ru
-  sni: wopa3.api3-max.ru
-  tls: false
-  type: hysteria2
-- name: '未命名 #16'
+- name: '未命名 #15'
   password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
   port: 443
   server: wopa4.api3-max.ru
@@ -127,21 +128,21 @@ proxies:
   sni: wopa4.api3-max.ru
   tls: false
   type: hysteria2
-- name: '未命名 #18'
+- name: '未命名 #17'
   password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
   port: 443
   server: wopa5.api3-max.ru
   sni: wopa5.api3-max.ru
   tls: false
   type: hysteria2
-- name: '未命名 #19'
+- name: '未命名 #18'
   password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
   port: 443
   server: wopa6.api3-max.ru
   sni: wopa6.api3-max.ru
   tls: false
   type: hysteria2
-- name: '未命名 #20'
+- name: '未命名 #19'
   password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
   port: 443
   server: wopa8.api3-max.ru
@@ -149,14 +150,14 @@ proxies:
   sni: wopa8.api3-max.ru
   tls: false
   type: hysteria2
-- name: '未命名 #21'
+- name: '未命名 #20'
   password: 68b4b16e-2759-47a4-8a69-33118edf5ce6
   port: 443
   server: ang.leontunel.ru
   sni: ang.leontunel.ru
   tls: false
   type: hysteria2
-- name: '未命名 #23'
+- name: '未命名 #22'
   password: 68b4b16e-2759-47a4-8a69-33118edf5ce6
   port: 443
   server: finlandi.blokinet3.ru
@@ -164,14 +165,14 @@ proxies:
   sni: finlandi.blokinet3.ru
   tls: false
   type: hysteria2
-- name: '未命名 #24'
+- name: '未命名 #23'
   password: 6fe3a600-4bcf-4040-81eb-ccd29231db2b
   port: 30001
   server: 155.117.19.221
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '未命名 #26'
+- name: '未命名 #25'
   password: 71cada65-d23e-418c-88e4-a06188d14689
   port: 8443
   server: 82.117.87.248
@@ -193,14 +194,14 @@ proxies:
   sni: it-one.quiet-rogue.site
   tls: false
   type: hysteria2
-- name: '未命名 #29'
+- name: '未命名 #28'
   password: 8645697d-51c1-4e90-aca5-ba63a0392f11
   port: 443
   server: cze-01.node.lumixnet.com
   sni: cze-01.node.lumixnet.com
   tls: false
   type: hysteria2
-- name: '未命名 #30'
+- name: '未命名 #29'
   password: 8ffbff3b-12c9-4d49-af97-93a8d6cb4edb
   port: 443
   server: de2.sunconnecthub.com
@@ -214,7 +215,7 @@ proxies:
   sni: nl2.unlockvpn.online
   tls: false
   type: hysteria2
-- name: '未命名 #32'
+- name: '未命名 #31'
   password: 99800091-8337-4112-8756-8cc60eb1ffa8
   port: 10808
   server: nl6.unlockvpn.online
@@ -222,21 +223,21 @@ proxies:
   sni: nl6.unlockvpn.online
   tls: false
   type: hysteria2
-- name: '未命名 #33'
+- name: '未命名 #32'
   password: 99800091-8337-4112-8756-8cc60eb1ffa8
   port: 10808
   server: nl7.unlockvpn.online
   sni: nl7.unlockvpn.online
   tls: false
   type: hysteria2
-- name: '未命名 #34'
+- name: '未命名 #33'
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 76.164.202.214
   sni: mercedes-grape.yyuyy.com
   tls: false
   type: hysteria2
-- name: '未命名 #35'
+- name: '未命名 #34'
   password: 9abff4cd-ac3b-40ce-a3e7-f71f445d670f
   port: 443
   server: 5.183.102.113
@@ -244,7 +245,7 @@ proxies:
   sni: iosapps.itunes.apple.com
   tls: false
   type: hysteria2
-- name: '未命名 #36'
+- name: '未命名 #35'
   password: 9abff4cd-ac3b-40ce-a3e7-f71f445d670f
   port: 443
   server: 82.47.32.31
@@ -260,7 +261,7 @@ proxies:
   sni: dg1.mangshe.xyz
   tls: false
   type: hysteria2
-- name: '未命名 #37'
+- name: '未命名 #36'
   password: 9d3356a0-c07e-43cc-b30e-450bd50521b8
   port: 2055
   server: xjp1.mangshe.xyz
@@ -268,14 +269,14 @@ proxies:
   sni: xjp1.mangshe.xyz
   tls: false
   type: hysteria2
-- name: '未命名 #38'
+- name: '未命名 #37'
   password: Apt1923_N9x234gn_Nal5Nx3j_s
   port: 8443
   server: 142.111.244.75
   sni: grape-power-pl.ddnsguru.com
   tls: false
   type: hysteria2
-- name: '未命名 #39'
+- name: '未命名 #38'
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 15.237.197.139
@@ -298,7 +299,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '未命名 #41'
+- name: '未命名 #40'
   password: Krab9Hyst2_Rk7pQ2xL
   port: 36723
   server: de2.vpn.legendaah.xyz
@@ -306,7 +307,7 @@ proxies:
   sni: www.cloudflare.com
   tls: false
   type: hysteria2
-- name: '未命名 #42'
+- name: '未命名 #41'
   password: LzMWgm6LaNWCm11bFTbynDPq2TqQj03t
   port: 443
   server: 5.255.102.165
@@ -314,14 +315,14 @@ proxies:
   sni: www.microsoft.com
   tls: false
   type: hysteria2
-- name: '未命名 #43'
+- name: '未命名 #42'
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
   server: 77.74.123.134
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
-- name: '未命名 #44'
+- name: '未命名 #43'
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
   server: 86.107.178.66
@@ -337,7 +338,7 @@ proxies:
   sni: freedom.chenlan.top
   tls: false
   type: hysteria2
-- name: '未命名 #45'
+- name: '未命名 #44'
   password: VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC
   port: 8443
   server: 23.95.75.151
@@ -354,6 +355,14 @@ proxies:
   sni: www.intel.com
   tls: false
   type: hysteria2
+- name: 4@wxgqlfx#
+  password: a000fb47-5dfd-4a6b-9739-2878883d6969
+  port: 36253
+  server: uswx4.wxgqlfx.vip
+  skip-cert-verify: true
+  sni: 144.225.187.153
+  tls: false
+  type: hysteria2
 - name: '  : Free_VPN_CH@'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -364,7 +373,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '未命名 #46'
+- name: '未命名 #45'
   password: b8f1b61e-d5c4-4765-866d-ece1fc8e590b
   port: 9443
   server: 104.165.205.226
@@ -388,14 +397,14 @@ proxies:
   sni: quic.tyr-agentstvo.tech
   tls: false
   type: hysteria2
-- name: '未命名 #48'
+- name: '未命名 #47'
   password: d1224950-ffab-4b9a-8696-431b40a6cfbd
   port: 443
   server: bel-03.node.lumixnet.com
   sni: bel-03.node.lumixnet.com
   tls: false
   type: hysteria2
-- name: '未命名 #49'
+- name: '未命名 #48'
   obfs: salamander
   obfs-password: T@T*FP7uq=!t
   password: f64c72a1-7e1f-4dd1-8929-7e41682542e2
@@ -405,14 +414,14 @@ proxies:
   sni: fr2.xiaoliyu.cyou
   tls: false
   type: hysteria2
-- name: '未命名 #50'
+- name: '未命名 #49'
   password: f64c72a1-7e1f-4dd1-8929-7e41682542e2
   port: 443
   server: ln4.xiaoliyu.cyou
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '未命名 #51'
+- name: '未命名 #50'
   password: f64c72a1-7e1f-4dd1-8929-7e41682542e2
   port: 4466
   server: sg3.xiaoliyu.cyou
@@ -420,11 +429,19 @@ proxies:
   sni: sg3.xiaoliyu.cyou
   tls: false
   type: hysteria2
-- name: '未命名 #52'
+- name: '未命名 #51'
   password: f64c72a1-7e1f-4dd1-8929-7e41682542e2
   port: 443
   server: us4.xiaoliyu.cyou
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '未命名 #52'
+  password: gf1
+  port: 443
+  server: 185.111.109.40
+  skip-cert-verify: true
+  sni: www.dell.com
   tls: false
   type: hysteria2
 - name: '未命名 #53'
@@ -443,17 +460,17 @@ proxies:
   sni: www.linux.com
   tls: false
   type: hysteria2
-- name: '未命名 #55'
+- name: '未命名 #56'
   password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
   port: 8443
   server: 185.79.138.71
   sni: hopp-legend-se.roxa.org
   tls: false
   type: hysteria2
-- name: '未命名 #56'
+- name: '未命名 #57'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
-  server: 205.237.109.213
+  server: 205.237.109.216
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
@@ -475,15 +492,6 @@ proxies:
   server: us1.xiaoliyu.cyou
   skip-cert-verify: true
   sni: us1.xiaoliyu.cyou
-  tls: false
-  type: hysteria2
-- name: 51@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: 816ys5fceofhpwft
-  password: 22j0d00lev7mq0yv
-  port: 1935
-  server: ipaste.4ippi.ru
-  sni: ipaste.4ippi.ru
   tls: false
   type: hysteria2
 - name: '@ATLAS_V2VPN491'
