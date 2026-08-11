@@ -315,6 +315,13 @@ proxies:
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
+- name: '未命名 #35'
+  password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
+  port: 8443
+  server: 86.107.178.69
+  sni: grape-zet-turbo-nl.yyuyy.com
+  tls: false
+  type: hysteria2
 - name: 'JP #1'
   password: STYyftThFn
   port: 12765
@@ -360,7 +367,7 @@ proxies:
   sni: usaw2.awo-link.com
   tls: false
   type: hysteria2
-- name: '未命名 #35'
+- name: '未命名 #36'
   password: c175d956-d1f4-4c53-b2b1-8493bf8529c6
   port: 443
   server: 87.120.84.189
@@ -375,7 +382,7 @@ proxies:
   sni: quic.tyr-agentstvo.tech
   tls: false
   type: hysteria2
-- name: '未命名 #36'
+- name: '未命名 #37'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -385,14 +392,14 @@ proxies:
   sni: nl2.sferavpn.pro
   tls: false
   type: hysteria2
-- name: '未命名 #37'
+- name: '未命名 #38'
   password: d1a0857bc1eb833a9edf96be4c1f999e
   port: 55443
   server: host-vds2-fr.kvncococ.org
   sni: host-vds2-fr.kvncococ.org
   tls: false
   type: hysteria2
-- name: '未命名 #38'
+- name: '未命名 #39'
   password: df489ab2-2242-4952-a774-1074a3a31f41
   port: 8443
   server: eh-spl1.craft-supply.org
@@ -407,21 +414,21 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '未命名 #39'
+- name: '未命名 #40'
   password: e0c7af35-e2db-47c7-b1a3-ce5ec0dd0474
   port: 8458
   server: hy2-fi.frdmhere.com
   sni: hy2.frdmhere.com
   tls: false
   type: hysteria2
-- name: '未命名 #40'
+- name: '未命名 #41'
   password: e0c7af35-e2db-47c7-b1a3-ce5ec0dd0474
   port: 8458
   server: hy2-us.frdmhere.com
   sni: hy2.frdmhere.com
   tls: false
   type: hysteria2
-- name: '未命名 #41'
+- name: '未命名 #42'
   obfs: salamander
   obfs-password: T@T*FP7uq=!t
   password: f64c72a1-7e1f-4dd1-8929-7e41682542e2
@@ -431,14 +438,14 @@ proxies:
   sni: fr2.xiaoliyu.cyou
   tls: false
   type: hysteria2
-- name: '未命名 #42'
+- name: '未命名 #43'
   password: f64c72a1-7e1f-4dd1-8929-7e41682542e2
   port: 443
   server: ln4.xiaoliyu.cyou
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '未命名 #43'
+- name: '未命名 #44'
   password: f64c72a1-7e1f-4dd1-8929-7e41682542e2
   port: 4466
   server: sg3.xiaoliyu.cyou
@@ -446,14 +453,14 @@ proxies:
   sni: sg3.xiaoliyu.cyou
   tls: false
   type: hysteria2
-- name: '未命名 #44'
+- name: '未命名 #45'
   password: f64c72a1-7e1f-4dd1-8929-7e41682542e2
   port: 443
   server: us4.xiaoliyu.cyou
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '未命名 #46'
+- name: '未命名 #47'
   password: gf1
   port: 443
   server: 185.111.109.40
@@ -461,7 +468,7 @@ proxies:
   sni: www.dell.com
   tls: false
   type: hysteria2
-- name: '未命名 #47'
+- name: '未命名 #48'
   password: gf1
   port: 443
   server: 185.156.44.99
@@ -469,7 +476,7 @@ proxies:
   sni: www.amazon.com
   tls: false
   type: hysteria2
-- name: '未命名 #49'
+- name: '未命名 #50'
   password: gf1
   port: 443
   server: 5.129.235.85
@@ -477,7 +484,7 @@ proxies:
   sni: www.linux.com
   tls: false
   type: hysteria2
-- name: '未命名 #50'
+- name: '未命名 #51'
   password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
   port: 8443
   server: 185.79.138.71
@@ -508,24 +515,31 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: '未命名 #51'
+- name: '未命名 #52'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.216
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: '未命名 #52'
+- name: '未命名 #53'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.219
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: '未命名 #53'
+- name: '未命名 #54'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.220
+  sni: grape-turbo-fr.roxa.org
+  tls: false
+  type: hysteria2
+- name: '未命名 #55'
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 205.237.109.221
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
@@ -655,14 +669,14 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '  : @AstroVPN_official'
+- name: '@vmess_ir'
   obfs: salamander
-  obfs-password: 4b6gmo4jujpapx99
-  password: AstroVPN_official
-  port: 8083
-  server: hystry.accuratenetworkchecker.ir
+  obfs-password: hg7rfvz151ftjh0w
+  password: 4ff4adfb8e7a4bae9c959c54fa5af52f
+  port: 52062
+  server: assets.gateway-stream.com
   skip-cert-verify: false
-  sni: vhd.nth.gelzaro.ir
+  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - name: '    '
@@ -760,7 +774,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '未命名 #54'
+- name: '未命名 #56'
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
   password: k1dom6dyqelryllv
@@ -794,7 +808,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '未命名 #55'
+- name: '未命名 #57'
   obfs: salamander
   obfs-password: zducqb7ro143x0t2
   password: k1dom6dyqelryllv
