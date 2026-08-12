@@ -73,6 +73,13 @@ hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52000?ins
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52001?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=527zd9w4nuaccd7g#FI-%40VPNine1%20%231
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52002?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=ielzukpwth087afx#FI-%40VPNine1%20%232
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52003?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=5xo4v7u2pv8bktvb#FI-%40VPNine1%20%233
+hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52020?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=kkh2qmrbxmh8h22a#FI-%40VPNine1%20%234
+hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52021?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#FI-%40VPNine1%20%235
+hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52022?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=1wcfqg6gwoyxlplo#FI-%40VPNine1%20%236
+hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52023?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=detgimgm8qh8i2g2#FI-%40VPNine1%20%237
+hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52024?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=t72hzzenktxmrvgu#FI-%40VPNine1%20%238
+hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52025?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=iknjsvsjagi449mm#FI-%40VPNine1%20%239
+hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52031?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=p61ckuavkc1s2hfl#FI-%40VPNine1%20%2310
 hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52000?insecure=0&alpn=h3&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=gu74jg3ym0e21zco#MTMVPN%207
 hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52002?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=ielzukpwth087afx#MTMVPN%208
 hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52003?insecure=0&alpn=h3&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=5xo4v7u2pv8bktvb#MTMVPN%2010
@@ -81,7 +88,6 @@ hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52062?ins
 hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52076?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=zducqb7ro143x0t2#Tel-%40ProxyMtAlpha%203
 hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443?sni=gorbachev-th.kvnfreetest.uk#13%40oneclickvpnkeys
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@151.247.193.5:8443?sni=iq5ny.pleiades.codes#16%40oneclickvpnkeys
-hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.tokyoservice.ir:2082?insecure=0&sni=hy2.tokyoservice.ir&obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9#140846%20%7C%20Telegram%20%3D%20t.me/SOSke...
 hysteria2://%40Telegram%40Configvibes@107.181.155.107:2096?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes#%40Configvibes
 hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?sni=lms22.gelzaro.ir&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k#%20%20%20%20
 hysteria2://Configvibes@107.181.155.107:2096?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=IL+pm5"K?4gef:Jvn8^G+:N,Neyy8#%40Configvibes%20%231
