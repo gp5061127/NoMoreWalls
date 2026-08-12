@@ -20,7 +20,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: 141127 | Telegram = t.me/SOSke...
+  name: dc-udp- Germany-Berlin-met_vg8...
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
   password: 3ff7b2e75ce84d05ae16572b60a9b707
@@ -32,7 +32,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: 141128 | Telegram = t.me/SOSke...
+  name: dc-udp- Germany-Dusseldorf-met...
   obfs: salamander
   obfs-password: 1wcfqg6gwoyxlplo
   password: 3ff7b2e75ce84d05ae16572b60a9b707
@@ -44,7 +44,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: 'FI-@VPNine1 #4'
+  name: dc-udp- Germany-Frankfurt-met_...
   obfs: salamander
   obfs-password: detgimgm8qh8i2g2
   password: 3ff7b2e75ce84d05ae16572b60a9b707
