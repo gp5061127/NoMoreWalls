@@ -40,16 +40,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: '|DE|@wxgqlfx|223'
-  password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
-  port: 443
-  server: fr131.mechvpn.online
-  skip-cert-verify: true
-  sni: fr131.mechvpn.online
-  tls: false
-  type: hysteria2
 - name: DE_speednode_0001
   password: e4b72b531a2d10900519
   port: 443
