@@ -27,6 +27,16 @@ proxies:
   obfs: salamander
   obfs-password: 1ol3tasb90
   password: 1dcc3b89-0b45-3908-9120-19741361d55d
+  port: 10030
+  server: fg7xl1div.d33tqmk.cc
+  skip-cert-verify: true
+  sni: xk7q3.ckpfef.top
+  tls: false
+  type: hysteria2
+- name: 'HK #1'
+  obfs: salamander
+  obfs-password: 1ol3tasb90
+  password: 1dcc3b89-0b45-3908-9120-19741361d55d
   port: 11173
   server: fg7xl1div.d33tqmk.cc
   sni: xk7qhk307.ckpfef.top
@@ -366,7 +376,7 @@ proxies:
   sni: cabinet.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: 🍏52@oneclickvpnkeys
+- name: рҹҚҸ52@oneclickvpnkeys
   password: 083417772bc618cd61f0cca23dd91680
   port: 55443
   server: 167.179.34.31
