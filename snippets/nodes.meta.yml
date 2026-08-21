@@ -335,19 +335,26 @@ proxies:
 - name: '未命名 #34'
   password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
   port: 8080
+  server: 138.124.0.168
+  sni: hopp-legend-se.roxa.org
+  tls: false
+  type: hysteria2
+- name: '未命名 #35'
+  password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
+  port: 8080
   server: 222.167.212.81
   skip-cert-verify: true
   sni: hopp-legend-se.roxa.org
   tls: false
   type: hysteria2
-- name: '未命名 #35'
+- name: '未命名 #36'
   password: hysteria2_fastlane_9r63hua9f
   port: 443
   server: 144.31.135.204
   sni: nl2.h.fastlanehosting.ru
   tls: false
   type: hysteria2
-- name: '未命名 #36'
+- name: '未命名 #37'
   password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
   port: 443
   server: de.1.23.h2corp.org
@@ -355,7 +362,7 @@ proxies:
   sni: germany3.h2corp.local
   tls: false
   type: hysteria2
-- name: '未命名 #37'
+- name: '未命名 #38'
   password: netherlands_3_hysteria2_fastlane_xr3nai71s
   port: 443
   server: 91.84.119.49
@@ -370,7 +377,7 @@ proxies:
   sni: vip-jp-4.hkd4fwmg.vip
   tls: false
   type: hysteria2
-- name: '未命名 #38'
+- name: '未命名 #39'
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 47.129.155.42
@@ -386,7 +393,15 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: '未命名 #39'
+- name: '未命名 #40'
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 46.229.243.139
+  skip-cert-verify: true
+  sni: grape-turbo-fr.roxa.org
+  tls: false
+  type: hysteria2
+- name: '未命名 #41'
   password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
   port: 443
   server: cabinet.wwwinternetvideo.click
@@ -431,7 +446,7 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: '@FreakConfig'
+- name: '  @vistav2ray    '
   obfs: salamander
   obfs-password: uw9b2qq5rx
   password: 6aab8efdf13945829ae3699c342be406
@@ -555,6 +570,14 @@ proxies:
   sni: de.jey.cc.cd
   tls: false
   type: hysteria2
+- name: 80@oneclickvpnkeys
+  password: V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8
+  port: 443
+  server: player.wwwinternetvideo.click
+  skip-cert-verify: true
+  sni: player.wwwinternetvideo.click
+  tls: false
+  type: hysteria2
 - name: ' - NL - @FreeOnlineVPN'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -603,7 +626,7 @@ proxies:
   sni: hy2.561891.xyz
   tls: false
   type: hysteria2
-- name: 80@oneclickvpnkeys
+- name: '80@oneclickvpnkeys #1'
   password: dongtaiwang.com
   port: 44356
   server: hy2.561891.xyz
@@ -638,7 +661,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '未命名 #40'
+- name: '未命名 #42'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
