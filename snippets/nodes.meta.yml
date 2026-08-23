@@ -154,13 +154,20 @@ proxies:
   tls: false
   type: hysteria2
 - name: '未命名 #15'
+  password: 83deb5ce-cd1c-41a6-8ec5-2ebc91f6f861
+  port: 8443
+  server: 31.76.70.109
+  sni: quic.tyr-agentstvo.tech
+  tls: false
+  type: hysteria2
+- name: '未命名 #16'
   password: 85a88b70b5f2f73d0dcac92bd3934a5e
   port: 50160
   server: 211.22.154.26
   sni: 211-22-154-26.liao.kdns.fr
   tls: false
   type: hysteria2
-- name: '未命名 #16'
+- name: '未命名 #17'
   password: 865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01
   port: 443
   server: streambox.wwwinternetvideo.click
@@ -168,7 +175,7 @@ proxies:
   sni: streambox.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: '未命名 #17'
+- name: '未命名 #18'
   password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
   port: 443
   server: deu0003ntrhy01.tcp-reset-club.net
@@ -176,7 +183,7 @@ proxies:
   sni: deu0003ntrhy01.tcp-reset-club.net
   tls: false
   type: hysteria2
-- name: '未命名 #18'
+- name: '未命名 #19'
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8080
   server: 162.249.124.105
@@ -209,14 +216,14 @@ proxies:
   sni: ftp.debian.org
   tls: false
   type: hysteria2
-- name: '未命名 #20'
+- name: '未命名 #21'
   password: Apt1923_N9x234gn_Nal5Nx3j_s
   port: 8443
   server: 222.167.212.80
   sni: grape-power-pl.ddnsguru.com
   tls: false
   type: hysteria2
-- name: '未命名 #21'
+- name: '未命名 #22'
   password: CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t
   port: 1443
   server: pg-usa2-hy2.gigatapbot.top
@@ -224,7 +231,7 @@ proxies:
   sni: pg-usa2-hy2.gigatapbot.top
   tls: false
   type: hysteria2
-- name: '未命名 #22'
+- name: '未命名 #23'
   password: Foc_Mcxi45rM9v3ve_N92fdrK_10_Ssc5
   port: 8443
   server: 185.39.31.117
@@ -240,7 +247,7 @@ proxies:
   sni: hy2-germany.unlimited-access.ru
   tls: false
   type: hysteria2
-- name: '未命名 #24'
+- name: '未命名 #25'
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 18.226.172.222
@@ -248,7 +255,7 @@ proxies:
   sni: vpn-us-003.fastervpn.world
   tls: false
   type: hysteria2
-- name: '未命名 #25'
+- name: '未命名 #26'
   obfs: salamander
   obfs-password: HysteriaHowdy
   password: HowdyHysteria2023w0W
@@ -258,14 +265,14 @@ proxies:
   sni: sni-here.com
   tls: false
   type: hysteria2
-- name: '未命名 #26'
+- name: '未命名 #27'
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8443
   server: 85.204.107.164
   sni: grape-zet-ro-turbo.bumbleshrimp.com
   tls: false
   type: hysteria2
-- name: '未命名 #27'
+- name: '未命名 #28'
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8080
   server: 85.204.107.169
@@ -273,7 +280,7 @@ proxies:
   sni: grape-zet-ro-turbo.bumbleshrimp.com
   tls: false
   type: hysteria2
-- name: '未命名 #28'
+- name: '未命名 #29'
   password: Krab9Hyst2_Rk7pQ2xL
   port: 36723
   server: fr.vpn.legendaah.xyz
@@ -281,14 +288,14 @@ proxies:
   sni: www.cloudflare.com
   tls: false
   type: hysteria2
-- name: '未命名 #29'
+- name: '未命名 #30'
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
   server: 86.107.178.72
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
-- name: '未命名 #30'
+- name: '未命名 #31'
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
   server: 86.107.178.75
@@ -312,14 +319,14 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '未命名 #32'
+- name: '未命名 #33'
   password: VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC
   port: 8080
   server: 82.39.214.98
   sni: hopp-us.yyuyy.com
   tls: false
   type: hysteria2
-- name: '未命名 #33'
+- name: '未命名 #34'
   password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
   port: 443
   server: go.wwwinternetvideo.click
@@ -335,19 +342,12 @@ proxies:
   sni: vip-sg-2.hkd4fwmg.vip
   tls: false
   type: hysteria2
-- name: '未命名 #34'
+- name: '未命名 #35'
   password: a6cf4b28-ba72-4e8c-90f8-6a884107ab3c
   port: 443
   server: ndge4.whit3.net
   skip-cert-verify: true
   sni: ndge4.whit3.net
-  tls: false
-  type: hysteria2
-- name: '未命名 #35'
-  password: b11841e3-2acc-45ff-afe0-a9ed9a823aaa
-  port: 443
-  server: rpc-2068.internet-booster.com
-  sni: rpc-2068.internet-booster.com
   tls: false
   type: hysteria2
 - name: '未命名 #36'
@@ -496,6 +496,13 @@ proxies:
   tls: false
   type: hysteria2
 - name: '未命名 #51'
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8080
+  server: 46.229.243.141
+  sni: grape-turbo-fr.roxa.org
+  tls: false
+  type: hysteria2
+- name: '未命名 #52'
   password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
   port: 443
   server: cabinet.wwwinternetvideo.click
