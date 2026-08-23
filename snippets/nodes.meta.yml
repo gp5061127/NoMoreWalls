@@ -1,5 +1,5 @@
 proxies:
-- name: иҚ·е…°
+- name: 荷兰
   password: 085178e12d2211ec
   port: 8445
   server: nl.prisma-access.club
@@ -160,7 +160,7 @@ proxies:
   sni: 211-22-154-26.liao.kdns.fr
   tls: false
   type: hysteria2
-- name: 71@oneclickvpnkeys
+- name: '未命名 #16'
   password: 865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01
   port: 443
   server: streambox.wwwinternetvideo.click
@@ -265,7 +265,7 @@ proxies:
   sni: grape-zet-ro-turbo.bumbleshrimp.com
   tls: false
   type: hysteria2
-- name: 75@oneclickvpnkeys
+- name: '未命名 #27'
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8080
   server: 85.204.107.169
@@ -502,7 +502,7 @@ proxies:
   sni: cabinet.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: рҹ§®36@oneclickvpnkeys
+- name: 🧮36@oneclickvpnkeys
   password: 083417772bc618cd61f0cca23dd91680
   port: 55443
   server: 167.179.34.31
@@ -526,14 +526,6 @@ proxies:
   server: 185.47.172.226
   skip-cert-verify: false
   sni: 185.47.172.226
-  tls: false
-  type: hysteria2
-- name: 72@oneclickvpnkeys
-  password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
-  port: 2056
-  server: xby.mangshe.xyz
-  skip-cert-verify: true
-  sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
 - name: '  @vistav2ray    '
@@ -586,7 +578,7 @@ proxies:
   sni: hopp-germany-new.ddnsguru.com
   tls: false
   type: hysteria2
-- name: 'kurdconfig #1'
+- name: kurdconfig
   obfs: salamander
   obfs-password: AIbOe_791iQ4k6kPUgdsO7B9
   password: 9cc2113e-6b5b-4ced-9c46-70cf78d2c599
@@ -748,29 +740,12 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '@bisto4_service :  '
-  obfs: salamander
-  obfs-password: v8h63irhnay97090
-  password: d86efa900c2f4bb6bde662f1ef6413b8
-  port: 52029
-  server: assets.gateway-stream.com
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: 150017 | Telegram = t.me/SOSke...
   password: dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s
   port: 8443
   server: 194.180.188.120
   skip-cert-verify: true
   sni: keyhop-offshore.roxa.org
-  tls: false
-  type: hysteria2
-- name: 53@oneclickvpnkeys
-  password: gf1
-  port: 443
-  server: 173.212.201.85
-  skip-cert-verify: true
-  sni: www.docker.com
   tls: false
   type: hysteria2
 - name: 41@oneclickvpnkeys
@@ -840,7 +815,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 'kurdconfig #2'
+- name: '@Azaranv2ray'
   obfs: salamander
   obfs-password: d6pv15sghiq1onts
   password: t8t2qojzsykqazfu
