@@ -1,1 +1,30 @@
-proxies: []
+proxies:
+- name: '  : Free_VPN_CH@'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 181.214.99.162
+  skip-cert-verify: false
+  sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: DE
+  password: dffb4c3d-1e84-4938-8881-cad917e8efb2
+  port: 443
+  server: de1.apexvpn.space
+  sni: de1.apexvpn.space
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: dc-udp- Germany-Berlin
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: 8f0gvz5eul6omhq4
+  port: 52021
+  server: giftcard.gateway-stream.com
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
