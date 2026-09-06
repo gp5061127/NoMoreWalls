@@ -10,7 +10,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: 163834 | Telegram = t.me/SOSke...
+  name: dc-udp- Singapore-Singapore
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: s6gt5e4mof43sfg8
