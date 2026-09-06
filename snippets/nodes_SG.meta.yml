@@ -7,6 +7,18 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 163834 | Telegram = t.me/SOSke...
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: s6gt5e4mof43sfg8
+  port: 52063
+  server: giftcard.gateway-stream.com
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: 新加坡3|@ripaojiedian
   network: tcp
   password: BxceQaOe

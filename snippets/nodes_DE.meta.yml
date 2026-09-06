@@ -16,3 +16,10 @@ proxies:
   sni: de1.apexvpn.space
   tls: false
   type: hysteria2
+- name: 🇩🇪All⁴ | @BigSmoke_Config
+  password: 4savc5ig1n3549e4
+  port: 52023
+  server: giftcard.gateway-stream.com
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
