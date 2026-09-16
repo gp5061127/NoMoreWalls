@@ -10,13 +10,6 @@ proxies:
   tls: false
   type: hysteria2
 - name: DE
-  password: dffb4c3d-1e84-4938-8881-cad917e8efb2
-  port: 443
-  server: de1.apexvpn.space
-  sni: de1.apexvpn.space
-  tls: false
-  type: hysteria2
-- name: 'DE #1'
   obfs: salamander
   obfs-password: f832485b7363626ee836f58576aad25f
   password: f0098427ecce06a25089f5c18f4ac666
