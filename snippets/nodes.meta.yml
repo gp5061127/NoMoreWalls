@@ -146,7 +146,7 @@ proxies:
   sni: musicclips.videolinks.ru
   tls: false
   type: hysteria2
-- name: 92@oneclickvpnkeys
+- name: 🐊92@oneclickvpnkeys
   password: 19f72087-4591-4d72-930b-2697078ec2be
   port: 4433
   server: es1.xiaoliyu.cyou
@@ -232,14 +232,6 @@ proxies:
   server: gift-catalog.aroonia.ir
   skip-cert-verify: false
   sni: gift-catalog.aroonia.ir
-  tls: false
-  type: hysteria2
-- name: 174829 | Telegram = t.me/SOSke...
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: vpn-uk-002.fastervpn.world
-  skip-cert-verify: true
-  sni: 127.0.0.1
   tls: false
   type: hysteria2
 - name: 98@oneclickvpnkeys
@@ -438,14 +430,6 @@ proxies:
   server: 2.27.59.206
   skip-cert-verify: false
   sni: de1.sferavpn.pro
-  tls: false
-  type: hysteria2
-- name: '17'
-  password: dongtaiwang.com
-  port: 44356
-  server: 142.249.37.90
-  skip-cert-verify: false
-  sni: hy2.561891.xyz
   tls: false
   type: hysteria2
 - name: 'Telegram @Cnetvpn  #1'
