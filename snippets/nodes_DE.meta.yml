@@ -9,11 +9,3 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 59@oneclickvpnkeys
-  password: 29ffde49-e1d6-4dcd-a135-352920f9f0b8
-  port: 25443
-  server: de-node.rumedia-cdn.com
-  skip-cert-verify: true
-  sni: cf6.rumedia-cdn.com
-  tls: false
-  type: hysteria2
