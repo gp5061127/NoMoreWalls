@@ -18,6 +18,10 @@ hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52087?insecure=0&sni=gi
 hysteria2://8z2e26xkqsa598s3@gift-catalog.aroonia.ir:52000?insecure=0&sni=gift-catalog.aroonia.ir&obfs=salamander&obfs-password=6cmj1dymhm79hopl#Telegram%20%40cnetvpn%20%20%231
 hysteria2://CnVfXXvMzh@hys13.wba-pn.ru:443?insecure=1#55%40oneclickvpnkeys
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8443?insecure=0&sni=hopp-romania-new.roxa.org#%40v2raybaaz
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.177:8080?sni=hopp-romania-new.roxa.org#84%40oneclickvpnkeys
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8080?insecure=1&sni=hopp-romania-new.roxa.org#83%40oneclickvpnkeys
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080?insecure=1&sni=hopp-romania-new.roxa.org#81%40oneclickvpnkeys
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.183:8080?insecure=1&sni=hopp-romania-new.roxa.org#87%40oneclickvpnkeys
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.184:8443?insecure=0&sni=hopp-romania-new.roxa.org#%40v2raybaaz%20%231
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.185:8443?insecure=0&sni=hopp-romania-new.roxa.org#%40v2raybaaz%20%232
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.187:8443?sni=hopp-romania-new.roxa.org#64%40oneclickvpnkeys
@@ -42,7 +46,7 @@ hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52076?insecure=0&sni=gi
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%20%40NOFiLTERING2%20%7C%20%20%20%20%20%20%7C%20%20%7C%20%20%231
 hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fp=chrome&sni=pro2.riziro.ir&obfs=salamander&obfs-password=2gg0tx9d2etug8n9#hysteria
 hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52050?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram%20%40cnetvpn%20%20%232
-hysteria2://sxc15led4b0vp5fy@2.26.97.21:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#92%40oneclickvpnkeys
+hysteria2://telegram-ID-conf0088@api.ohbah.com:25287?insecure=0&obfs=salamander&obfs-password=telegram-ID-conf0088#179690%20%7C%20Telegram%20%3D%20t.me/SOSke...
 hysteria2://tnnls@bwdf2fnt.xn--e1aatfr8bwa.online:443?insecure=0&sni=bwdf2fnt.xn--e1aatfr8bwa.online&obfs=salamander&obfs-password=b6d1f3888ab1d90dd11aac1dce427b81#%40fastkanfig%20%20
 hysteria2://v2rayyngvpn@168.222.43.35:443?insecure=0&sni=www.bing.com&obfs=salamander&obfs-password=V2RayyNGvpn#V2RayyNGvpn%20%20%231
 hysteria2://vz86jgszv4zszchv@giftcard.gateway-stream.com:52062?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram%20%40cnetvpn%20%20%233
