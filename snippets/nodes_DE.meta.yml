@@ -9,12 +9,3 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- fingerprint: chrome
-  name: DE-@VPNine1
-  password: 0a11d3b4-682c-4bfb-afb0-820b8285cb4b
-  port: 443
-  server: covers.pantera-radio.ru
-  skip-cert-verify: true
-  sni: covers.pantera-radio.ru
-  tls: false
-  type: hysteria2
