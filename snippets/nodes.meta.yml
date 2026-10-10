@@ -127,7 +127,7 @@ proxies:
   sni: hy.kirian.su
   tls: false
   type: hysteria2
-- name: '@FreakConfig'
+- name: '@FreakConfig #1'
   obfs: salamander
   obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
   password: 77f73bd5-51bf-4143-8ebd-02f56ba376f4
@@ -337,16 +337,6 @@ proxies:
   server: 155.94.134.183
   skip-cert-verify: false
   sni: srv-3fc7c9.21freedom.net
-  tls: false
-  type: hysteria2
-- name: 190916 | Telegram = t.me/SOSke...
-  obfs: salamander
-  obfs-password: ChY5QQQT3ZtUdNT8
-  password: capadmbd5f18bd
-  port: 443
-  server: 51.77.217.70
-  skip-cert-verify: true
-  sni: vpn.local
   tls: false
   type: hysteria2
 - name: kurdconfig
