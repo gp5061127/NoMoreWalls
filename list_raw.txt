@@ -15,7 +15,7 @@ hysteria2://8z2e26xkqsa598s3@gift-catalog.aroonia.ir:52000?insecure=0&sni=gift-c
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=vpn-tw-002.fastervpn.world#100%40oneclickvpnkeys
 hysteria2://Hc9_NX924RE_Mn948rgrwiub_m93V84nll@5.254.51.108:9443?insecure=0&sni=keyhop-voxility-at.dynuddns.com#%40v2ray_configs_pools%20%20
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#%2B%40Azarakhsh_Proxy%2B
-hysteria2://L5h99fyPz7ER5yxTks4tjDjHQa5Sk96s@ir1.wufpel.ir:443?insecure=0&sni=b2ab2c3a2670d4b2.wufpel.ir&obfs=salamander&obfs-password=3mVEvYnmg5a4U6_66TQgh1W8#IR-%40VPNine1
+hysteria2://L5h99fyPz7ER5yxTks4tjDjHQa5Sk96s@ir1.wufpel.ir:443?insecure=0&sni=b2ab2c3a2670d4b2.wufpel.ir&obfs=salamander&obfs-password=3mVEvYnmg5a4U6_66TQgh1W8#198624%20%7C%20Telegram%20%3D%20t.me/SOSke...
 hysteria2://M8LP9DztTr3znqCkmf-r08CQLBLLFK1r@me17.msjia8844.site:7443?sni=me17.msjia8844.site#%40meliproxyy
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?insecure=0&sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#%40FarazV2ray
 hysteria2://Telegram-Vpnjey@179.61.138.145:54759?insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram%40vpnjey
@@ -66,6 +66,4 @@ trojan://AA885B42-133C-3828-FB69-E45105C06092@63182sh8-4d7b.aws-agent.net:10155?
 trojan://AA885B42-133C-3828-FB69-E45105C06092@63182sh8-4d7b.aws-agent.net:12122?allowInsecure=1&sni=m.ctrip.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://AA885B42-133C-3828-FB69-E45105C06092@7d0a2gz0-7a0c.aws-agent.net:12142?allowInsecure=1&sni=m.ctrip.com#%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
 trojan://AA885B42-133C-3828-FB69-E45105C06092@63182sh8-4d7b.aws-agent.net:11171?allowInsecure=1&sni=m.ctrip.com#%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
-vless://7060231d-b9ba-495f-a218-bf427940cf3e@3.79.233.186:443?allowInsecure=0&sni=play.googleapis.com#DE_speednode_0002
-vless://a500be68-4ff6-433b-9968-472be69fab14@netherlands02.azotvpn.xyz:443?allowInsecure=0&sni=netherlands02.azotvpn.xyz&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#GB_speednode_0013
 https://gist.githubusercontent.com/peasoft/40b87245630092f30cc98af61190b4e2/raw/
