@@ -12,6 +12,7 @@ hysteria2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@88.216.60.117:20444?sni=hy60c11
 hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?insecure=1&sni=cdn77.dmtr.ru&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze#%40Begoo_VPN%20
 hysteria2://5icixgawam84vgrp@109.70.74.213:2098?insecure=0&sni=109.70.74.213&obfs=salamander&obfs-password=7922smqtd5qm70fu#210343%20%7C%20Telegram%20%3D%20t.me/LonUp...
 hysteria2://5ictxgawam84vgrp@109.70.74.213:2098?insecure=0&sni=109.70.74.213&obfs=salamander&obfs-password=7922smqtd5qm70fu#210216%20%7C%20Telegram%20%3D%20t.me/LonUp...
+hysteria2://5ictxgawam84vgrp@arsalanvpn.trapxan.ir:2098?sni=arsalanvpn.trapxan.ir&obfs=salamander&obfs-password=7922smqtd5qm70fu#210420%20%7C%20Telegram%20%3D%20t.me/LonUp...
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#Telegram%3A%40v2rayng3
 hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?insecure=1&sni=ru3.kinotorg.net#6%40exclavevpn
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#%2B%40Azarakhsh_Proxy%2B
@@ -95,5 +96,5 @@ vless://bcf07b50-9da7-44dc-a955-43302f12e1e5@37.235.249.12:443?allowInsecure=0&s
 vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@193.160.141.27:443?allowInsecure=0&sni=abuse.ozon.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#TR_speednode_0038
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@mx001.zestapp778.com:19167?allowInsecure=0&sni=mx001.zestapp778.com&fp=chrome&security=tls#US_speednode_0042
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.18.208:54857?allowInsecure=0&sni=us001.zestapp778.com&fp=firefox&security=tls#US_speednode_0043
-anytls://2f4c3fc5-8fa2-4576-a583-8f98a6026887@tw.ccwink.cc:6549/?insecure=1&sni=baidu.com#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%EF%BD%9C02%EF%BD%9CHiNet
 https://gist.githubusercontent.com/peasoft/40b87245630092f30cc98af61190b4e2/raw/
+anytls://2f4c3fc5-8fa2-4576-a583-8f98a6026887@tw.ccwink.cc:6549/?insecure=1&sni=baidu.com#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%EF%BD%9C02%EF%BD%9CHiNet
