@@ -1,9 +1,10 @@
 proxies:
-- name: 🇺🇸 7@exclavevpn
-  password: 146d567c-6335-4e63-a8aa-7ec068642440
+- name: 🇺🇸139909 | ⚡️Telegram = t.me/S...
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
-  server: fi1.obxodvpn.us
-  sni: fi1.obxodvpn.us
+  server: 54.213.89.22
+  skip-cert-verify: true
+  sni: vk.com
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
